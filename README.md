@@ -1,3 +1,14 @@
+## Disclaimer
+This is for educational and cybersecurity awareness purposes only. It should be used responsibly and ethically. The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. Phoenix RAT is built for educational and internal use only.
+
+**Attention:** We do not endorse any illegal or unethical use of this tool. The user assumes all responsibility for the use of this software.
+
+![Image](https://github.com/user-attachments/assets/80ebf395-4cb2-405a-8b36-7d545a3435d7)
+
+<a href="https://t.me/imphoenixdev" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/2ec8444b806ac8f00bfc8a73262ba92dcb8507f280a9f8ea3eb2eaf37f505c80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4255592d4e4f572d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&amp;logo=telegram" style="max-width: 100%;">
+  </a>
+
 # Phoenix-RAT
 Extreme powerful Android device controlling tool with a lots of features and capabilities
 read contacts.txt
@@ -73,5 +84,4 @@ The Phoenix RAT includes the following capabilities:
 
 
 
-## Disclaimer
-This is for educational and cybersecurity awareness purposes only. It should be used responsibly and ethically.
+
